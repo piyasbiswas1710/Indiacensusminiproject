@@ -2,7 +2,7 @@
 
 An interactive data visualization dashboard built with **Streamlit** and **Plotly** that explores India's 2011 Census data at the district level across all states.
 
->  **Live Demo**: [your-app-link-here.streamlit.app](https://streamlit.io)
+>  **Live Demo**: https://ep9btywrks7qrjajwgvj3f.streamlit.app/
 
 ---
 
@@ -119,8 +119,8 @@ Every view shows live summary cards for:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/india-census-dashboard.git
-cd india-census-dashboard
+git clone https://github.com/piyasbiswas1710/Indiacensusminiproject.git
+cd Indiacensusminiproject
 ```
 
 ### 2. Install dependencies
@@ -145,7 +145,7 @@ india-census-dashboard/
 ├── app.py                              # Main Streamlit application
 ├── requirements.txt                    # Python dependencies
 ├── india-districts-census-2011.csv     # Census dataset
-├── district_wise_centroids.csv         # District coordinates
+├── district wise centroids.csv         # District coordinates
 ├── screenshots/                        # README screenshots
 │   ├── map.png
 │   ├── rankings.png
